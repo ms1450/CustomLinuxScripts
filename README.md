@@ -3,10 +3,10 @@ Linux Scripts created by me that I use in Red vs Blue team competitions, mostly 
 
 --------------------------------- REQUIRE ROOT ACCESS ---------------------------------
 
-backUpEverything.sh
+backUpEverything.sh /n
 Creates a /backup folder in the root folder and copies most of the important files into that folder.
 
-fireTheWall.sh
+fireTheWall.sh /n
 Sets up firewall rules with optional parameters to allow SSH and HTTP/HTTPS connections through.
 
 passwdCHANGER.sh
